@@ -1,1 +1,1 @@
-This file is mandatory in projects
+New README.md file
